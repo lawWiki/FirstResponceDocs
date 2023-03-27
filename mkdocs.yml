@@ -1,0 +1,52 @@
+site_name: law
+# site_url: https://example.com/
+nav:
+    - Home: index.md
+    - Law: divorce.md
+theme: 
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue grey
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: blue grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - search.highlight
+    - toc.integrate
+plugins: 
+  - search
+  - google-translate
+  - i18n:
+      default_language: en
+      languages:
+        en: English
+        hi: Hindi
+        ur: Urdu
+        bn: Bengali
+
+
+extra: 
+  alternate:
+    - name: English
+      lang: 'en'
+      link: '%GT_RELATIVE_URL%'
+    - name: Gujarati
+      lang: 'gu'
+      link: 'https://translate.goog/?_x_tr_sl=en&_x_tr_tl=u'
+

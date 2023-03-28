@@ -32,6 +32,7 @@ theme:
 plugins:
   - search
   - google-translate
+  - mkdocstrings
   - i18n:
       default_language: en
       languages:

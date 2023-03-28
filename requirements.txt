@@ -1,4 +1,4 @@
-mkdocs
-mkdocs-material
+mkdocs==1.2.1
+mkdocs-material>=9.14
 mkdocs-static-i18n
 mkdocs-google-translate

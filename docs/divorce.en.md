@@ -38,15 +38,15 @@ The documents required for the filing of divorce petition for a contested divorc
 1. Information regarding the family background of both the parties.
 1. Details of the property owned by the petitioner.
 
-
 #### Lawyer’s fee one expects to pay for divorce cases in India
+
 Generally, the charges for filing a divorce case is not too much, however, the lawyer who engages to fight a divorce suit might charge for the services he has given. The lowest cost to fight a divorce suit is around ten thousand and the maximum might go is around ten lakhs.
 
 ## Grounds for Dissolution of Marriage 
 
 According to [Section 10](https://indiankanoon.org/doc/1387951/) of the [Indian Divorce Act, 1869](https://indiankanoon.org/doc/806295/) after the solemnization of marriage the District Court can, based on the petition filed by either the husband or wife, can dissolve the marriage on the ground that the respondent :
 
-1. Has committed adultery. 
+1. Has committed adultery.
 1. Has converted his religion and is no longer a Christian.
 1. Has been of unsound mind for two years continuously before the filing of the petition.
 1. Has been diagnosed with leprosy for a period of at least two years before the filing of the petition. Though this clause has now been omitted by the [Personal Laws (Amendment) Act, 2019](https://www.scconline.com/blog/post/2019/02/25/personal-laws-amendment-act-2019-notified/).
@@ -57,15 +57,15 @@ According to [Section 10](https://indiankanoon.org/doc/1387951/) of the [Indi
 1. Has deserted the petitioners for at least two years immediately preceding the presentation of petition.
 1. Has treated the petitioner with such cruelty that it created a reasonable apprehension in the mind of the petitioner that it would be harmful for the petitioner to live with the respondent.
 
-
 # Easy way to get a divorce in India
+
 If people think that the easiest way to get a divorce in India does not involve law or through out of court settlement, then, there is no such way. To get a valid divorce law has been involved. So, amongst all those divorce laws that have been provided with the most straightforward procedure, the easiest one is according to [Section 13B ](https://indiankanoon.org/doc/439618/)of the Hindu Marriage Act, 1955. As already mentioned, it is the provision of divorce sought with mutual consent. It is really important that parties have some agreements on issues because it helps the court in carrying out the divorce procedure at a much faster pace, also both the parties suffer from less emotional trauma. Having understanding on issues makes the procedure less complicated which in other circumstances is much more complicated since everything is decided by the court. There is no such provision that guarantees that the procedure for the decree of divorce will be completed  within this time limit. In some cases, it will take less time than the time taken in other cases. But the one thing that helps to get a divorce in an easy and less complicated way is the understanding of the parties on issues like, child custody, child support, alimony, etc.
 
 Types of Divorce Petition
 
 ## Divorce with mutual consent
 
-When both the husband and wife mutually consent to end their marriage, then, in that case, the married couple can seek a divorce from the courts. However, the court will not automatically dissolve the marriage. So that the petition for divorce is accepted, it is necessary to show that the couple has been living separately for over a year or two. 
+When both the husband and wife mutually consent to end their marriage, then, in that case, the married couple can seek a divorce from the courts. However, the court will not automatically dissolve the marriage. So that the petition for divorce is accepted, it is necessary to show that the couple has been living separately for over a year or two.
 
 Sometimes, a petition for divorce may be applied not because there is some problem between the husband and wife, but because of some financial problems and the couple is not able to sustain their livelihood. In such cases, the couple can seek divorce with mutual consent.
 
@@ -77,15 +77,11 @@ There are three aspects between a husband and a wife when they are seeking divor
 
 Various laws have different periods specified for the completion of procedure of divorce. According to [Section 13B](https://indiankanoon.org/doc/439618/) of the Hindu Marriage Act,1955,  to initiate the divorce proceedings it is necessary that both the husband and wife must be living separately for a minimum period of one year. However, for the Christians, the period is different. According to [Section 10A](https://indiankanoon.org/doc/806295/) of the [Divorce Act, 1869](https://indiankanoon.org/doc/806295/), the couple should be living separately for a minimum period of two years. Living separately does not mean that the couple has to live at two different locations. They can be living together yet it is sufficient to prove that they were not living like husband and wife.
 
-
-
-
-
 ## Divorce without mutual consent
 
 The divorce without mutual consent can be sought on the following grounds:
 
-Cruelty 
+Cruelty
 
 Cruelty may be both physical or mental, if one of the patients feels that the conduct of the other party towards him or her is likely to cause some mental or physical injury, then, it serves as a sufficient cause to seek divorce.
 
@@ -97,7 +93,7 @@ Desertion
 
 If one of the parties deserts the other one without giving any reasonable reason, then, it is a good reason to obtain a divorce from the other. However, the person who abandons the other spouse must have the intention to desert and have the proof for it as well. Under Hindu law, the dissertation must have lasted for at least two years, but under Christian law, there is no such time limit and a petition of divorce can be filed just by claiming that the other spouse has committed desertion.
 
-Conversion 
+Conversion
 
 Converting to another religion by a spouse is another reason to claim divorce from the other. This does not require any minimum time that has to be passed before claiming for divorce.
 
@@ -109,6 +105,6 @@ Presumption of Death
 
 If the spouse has not been heard of being alive for a minimum period of 7 years, then, in that case, the spouse who has not heard any news regarding his or her spouse being alive can seek divorce as the courts presume that the other spouse is dead.
 
-Renunciation of the World 
+Renunciation of the World
 
 If the spouse decides to renounce the world and obtains a holy order, then, the aggrieved spouse can file for divorce. However, this renunciation must be absolute and incontestable.

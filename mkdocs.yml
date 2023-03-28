@@ -1,16 +1,16 @@
 site_name: law
 # site_url: https://example.com/
 nav:
-    - Home: index.md
-    - Law: divorce.md
-theme: 
+  - Home: index.md
+  - Law: divorce.md
+theme:
   name: material
   palette:
     # Palette toggle for light mode
     - scheme: default
       primary: blue grey
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Palette toggle for dark mode
@@ -29,7 +29,7 @@ theme:
     - navigation.top
     # - search.highlight
     # - toc.integrate
-plugins: 
+plugins:
   - search
   - google-translate
   - i18n:
@@ -39,9 +39,7 @@ plugins:
         hi: Hindi
         ur: Urdu
         bn: Bengali
-
-
-# extra: 
+# extra:
 #   alternate:
 #     - name: English
 #       lang: 'en'
@@ -49,4 +47,3 @@ plugins:
 #     - name: Gujarati
 #       lang: 'gu'
 #       link: 'https://translate.goog/?_x_tr_sl=en&_x_tr_tl=u'
-

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>https://lawwiki.github.io/</loc>
+         <lastmod>2023-03-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://lawwiki.github.io/en/"/>
+         <xhtml:link rel="alternate" hreflang="hi" href="https://lawwiki.github.io/hi/"/>
+         <xhtml:link rel="alternate" hreflang="ur" href="https://lawwiki.github.io/ur/"/>
+         <xhtml:link rel="alternate" hreflang="bn" href="https://lawwiki.github.io/bn/"/>
+         
+    </url>
+    <url>
+         <loc>https://lawwiki.github.io/Financial_Fraud_Case/</loc>
+         <lastmod>2023-03-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://lawwiki.github.io/en/Financial_Fraud_Case/"/>
+         <xhtml:link rel="alternate" hreflang="hi" href="https://lawwiki.github.io/hi/Financial_Fraud_Case/"/>
+         <xhtml:link rel="alternate" hreflang="ur" href="https://lawwiki.github.io/ur/Financial_Fraud_Case/"/>
+         <xhtml:link rel="alternate" hreflang="bn" href="https://lawwiki.github.io/bn/Financial_Fraud_Case/"/>
+         
+    </url>
+    <url>
+         <loc>https://lawwiki.github.io/divorce/</loc>
+         <lastmod>2023-03-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://lawwiki.github.io/en/divorce/"/>
+         <xhtml:link rel="alternate" hreflang="hi" href="https://lawwiki.github.io/hi/divorce/"/>
+         <xhtml:link rel="alternate" hreflang="ur" href="https://lawwiki.github.io/ur/divorce/"/>
+         <xhtml:link rel="alternate" hreflang="bn" href="https://lawwiki.github.io/bn/divorce/"/>
+         
+    </url>
+</urlset>

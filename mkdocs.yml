@@ -2,7 +2,8 @@ site_name: law
 site_url: https://lawwiki.github.io
 nav:
   - Home: index.md
-  - Law: divorce.md
+  - Divorce: divorce.md
+  - Fianical_Fraud: Financial_Fraud_Case.md
 theme:
   name: material
   palette:
